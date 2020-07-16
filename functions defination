@@ -1,0 +1,5 @@
+def any_function():
+print("any thing you write here")
+
+# def
+this is a main peramiter which is special for defining a function in python3
