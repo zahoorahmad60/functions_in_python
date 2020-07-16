@@ -1,0 +1,24 @@
+# when we define a function in python3 its mean we clean up our code .
+# IN python we can save hounderd or millions of code linens in a simple function 
+and access them just a calling it function.
+
+def a_fun():
+  print("helloo fun")
+  print("helloo fun")
+  print("helloo fun")
+  print("helloo fun")
+  print("helloo fun")
+  print("helloo fun")
+  print("helloo fun")
+  print("helloo fun")
+  print("helloo fun")
+  
+  
+  # in this code indentation is a key...
+  
+  
+  
+  
+  
+  when you call a_fun()
+  # these all lines of code will printed..
